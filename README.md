@@ -19,8 +19,3 @@ Run the Python file:
 
 python countdown.py
 
-🎯 Goal
-
-This is Mini Project #1 in my daily Python learning journey.
-
-Learn → Build → Upload → Repeat. 🐍🔥
